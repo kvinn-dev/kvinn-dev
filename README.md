@@ -8,19 +8,56 @@ import { SoftwareEngineer } from '@kvinn-dev';
 class Bio extends SoftwareEngineer {
   name     = 'Kevin Pamungkas';
   title    = 'Software Engineer';
+  role     = 'Informatics Engineering Student (4th Semester)';
+  focus    = 'Mobile & Fullstack Development';
   location = 'Jakarta, Indonesia';
-  uptime   = '19 yrs 7 months 7 days';
+  mission  = 'Building scalable software that solves real-world problems';
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
-  current = ['Machine Learning with Python', 'Three.js', 'GSAP'];
+  current = [
+    'Mobile Development with Flutter',
+    'Clean Architecture in Flutter',
+    'State Management (Bloc / Provider)',
+    'REST API Integration',
+  ];
 }
 
 class Skills extends SoftwareEngineer {
-  languages = ['JavaScript', 'PHP', 'Dart'];
-  frontend  = ['React', 'Flutter'. 'Next.js', 'HTML5', 'CSS3', 'Tailwind CSS', 'Bootstrap'];
-  backend   = ['Node.js', 'Laravel'];
-  databases = ['MySQL', 'SQLite'];
+  languages = [
+    'JavaScript',
+    'TypeScript',
+    'PHP',
+    'Dart',
+    'Java'
+  ];
+
+  frontend = [
+    'React',
+    'Next.js',
+    'Flutter',
+    'HTML5',
+    'CSS3',
+    'Tailwind CSS'
+  ];
+
+  backend = [
+    'Laravel',
+    'Node.js',
+  ];
+
+  databases = [
+    'MySQL',
+    'SQLite'
+  ];
+
+  tools = [
+    'Github',
+    'VS Code',
+    'Figma'
+    'Laragon',
+    'Android Studio'
+  ];
 }
 
 ```
