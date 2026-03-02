@@ -15,7 +15,7 @@ class Bio extends SoftwareEngineer {
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
-  current = ['Mobile Development with Flutter', 'Clean Architecture in Flutter', 'State Management (Bloc / Provider)', 'REST API Integration'];
+  current = ['Mobile Development with Flutter', 'Clean Architecture in Flutter', 'REST API Integration'];
 }
 
 class Skills extends SoftwareEngineer {
@@ -27,10 +27,3 @@ class Skills extends SoftwareEngineer {
 }
 
 ```
-<p align="center">
-<a href="mailto:fizasayyed.se@gmail.com"><img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fizasayyed7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/fizaa.zip" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://twitter.com/fizasayyed7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<!-- <a href="https://github.com/fizasayyed" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a> -->
-</p>
