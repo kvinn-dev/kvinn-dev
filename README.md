@@ -15,49 +15,15 @@ class Bio extends SoftwareEngineer {
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
-  current = [
-    'Mobile Development with Flutter',
-    'Clean Architecture in Flutter',
-    'State Management (Bloc / Provider)',
-    'REST API Integration',
-  ];
+  current = ['Mobile Development with Flutter', 'Clean Architecture in Flutter', 'State Management (Bloc / Provider)', 'REST API Integration'];
 }
 
 class Skills extends SoftwareEngineer {
-  languages = [
-    'JavaScript',
-    'TypeScript',
-    'PHP',
-    'Dart',
-    'Java'
-  ];
-
-  frontend = [
-    'React',
-    'Next.js',
-    'Flutter',
-    'HTML5',
-    'CSS3',
-    'Tailwind CSS'
-  ];
-
-  backend = [
-    'Laravel',
-    'Node.js',
-  ];
-
-  databases = [
-    'MySQL',
-    'SQLite'
-  ];
-
-  tools = [
-    'Github',
-    'VS Code',
-    'Figma'
-    'Laragon',
-    'Android Studio'
-  ];
+  languages = ['JavaScript', 'TypeScript', 'PHP', 'Dart', 'Java'];
+  frontend = ['React', 'Next.js', 'Flutter', 'HTML5', 'CSS3', 'Tailwind CSS'];
+  backend = ['Laravel', 'Node.js'];
+  databases = ['MySQL', 'SQLite'];
+  tools = ['Github', 'VS Code', 'Figma' 'Laragon', 'Android Studio'];
 }
 
 ```
