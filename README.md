@@ -6,10 +6,10 @@
 import { SoftwareEngineer } from '@kvinn-dev';
 
 class Bio extends SoftwareEngineer {
-  name     = 'Kevin Pamungkas';
+  name     = 'Kevin Yulian Pamungkas';
   title    = 'Software Engineer';
   role     = 'Informatics Engineering Student (4th Semester)';
-  focus    = 'Mobile & Fullstack Development';
+  focus    = 'Fullstack Web & Mobile Developer';
   location = 'Jakarta, Indonesia';
   mission  = 'Building scalable software that solves real-world problems';
 }
