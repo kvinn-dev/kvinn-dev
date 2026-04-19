@@ -23,7 +23,7 @@ class Skills extends SoftwareEngineer {
   frontend = ['React', 'Next.js', 'Flutter', 'HTML5', 'CSS3', 'Tailwind CSS'];
   backend = ['Laravel', 'Node.js'];
   databases = ['MySQL', 'SQLite', 'Postgresql'];
-  tools = ['Git', 'VS Code', 'Figma' 'Laragon', 'Android Studio', 'TablePlus'];
+  tools = ['Git', 'VS Code', 'Figma' , 'Docker' , 'Laragon', 'Android Studio', 'TablePlus'];
 }
 
 ```
