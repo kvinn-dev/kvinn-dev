@@ -1,0 +1,21 @@
+# Helper tools
+generate_ascii.py
+
+# Images (source photos used for ASCII generation)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
