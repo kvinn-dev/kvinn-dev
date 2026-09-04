@@ -47,8 +47,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="30">@kvinn-dev</tspan>
 ——————————————————————————————————————————————————
 <tspan x="390" y="50" class="cc">.</tspan> <tspan class="key">OS</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">macOS Tahoe 26 / Windows 10 / iOS 17</tspan>
-<tspan x="390" y="70" class="cc">.</tspan> <tspan class="key">Age</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value" id="age_data">19 years, 11 months, 23 days</tspan>
-<tspan x="390" y="90" class="cc">.</tspan> <tspan class="key">Role</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Computer Science Student (4th Semester)</tspan>
+<tspan x="390" y="70" class="cc">.</tspan> <tspan class="key">Age</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value" id="age_data">20 years, 1 months, 12 days</tspan>
+<tspan x="390" y="90" class="cc">.</tspan> <tspan class="key">Role</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Computer Science Student (5th Semester)</tspan>
 <tspan x="390" y="110" class="cc">.</tspan> <tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Darwin 26.0.0 / NT 10.0</tspan>
 <tspan x="390" y="130" class="cc">.</tspan> <tspan class="key">IDE</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">VS Code / Android Studio</tspan>
 <tspan x="390" y="150" class="cc">.</tspan> <tspan class="key">Shell</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Zsh 5.9 / PowerShell 7.4</tspan>
@@ -65,8 +65,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="390" class="cc">.</tspan> <tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">kevin-pamungkas</tspan>
 <tspan x="390" y="410" class="cc">.</tspan> <tspan class="key">Facebook</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">@kvinn.tsx</tspan>
 <tspan x="390" y="450">GitHub Stats</tspan> ————————————————————————————————————————————————
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">36</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">41</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">17</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,119</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">16</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">....... </tspan><tspan class="value" id="loc_data">53,474</tspan> ( <tspan class="addColor" id="loc_add">59,847</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">6,373</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">40</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">45</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">17</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commmits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">1,207</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">73</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">....... </tspan><tspan class="value" id="loc_data">57,365</tspan> ( <tspan class="addColor" id="loc_add">35,541</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">7,094</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
