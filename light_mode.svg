@@ -62,7 +62,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="310" class="cc">.</tspan> <tspan class="key">Database</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">MySQL, PostgreSQL, SQLite, Supabase</tspan>
 <tspan x="390" y="350">Contact</tspan> —————————————————————————————————————————————————————
 <tspan x="390" y="370" class="cc">.</tspan> <tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Jakarta, Indonesia</tspan>
-<tspan x="390" y="390" class="cc">.</tspan> <tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">kevin-pamungkas</tspan>
+<tspan x="390" y="390" class="cc">.</tspan> <tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">kevinyulianpamungkas</tspan>
 <tspan x="390" y="410" class="cc">.</tspan> <tspan class="key">Facebook</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">@kvinn.tsx</tspan>
 <tspan x="390" y="450">GitHub Stats</tspan> ————————————————————————————————————————————————
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">40</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">45</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">17</tspan>
